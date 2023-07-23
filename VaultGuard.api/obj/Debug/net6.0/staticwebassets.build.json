@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RiGCqCY2O3qZe2I3xGdTKcf9+SGf8dJFM6A0iliwOk4=",
+  "Source": "VaultGuard.Api",
+  "BasePath": "_content/VaultGuard.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

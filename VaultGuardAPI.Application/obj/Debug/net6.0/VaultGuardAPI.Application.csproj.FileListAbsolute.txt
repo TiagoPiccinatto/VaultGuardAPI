@@ -1,0 +1,17 @@
+C:\Users\tiago\OneDrive\Área de Trabalho\Api Gerador De Senha\VaultGuardAPI\VaultGuardAPI.Application\bin\Debug\net6.0\VaultGuardAPI.Application.deps.json
+C:\Users\tiago\OneDrive\Área de Trabalho\Api Gerador De Senha\VaultGuardAPI\VaultGuardAPI.Application\bin\Debug\net6.0\VaultGuardAPI.Application.runtimeconfig.json
+C:\Users\tiago\OneDrive\Área de Trabalho\Api Gerador De Senha\VaultGuardAPI\VaultGuardAPI.Application\bin\Debug\net6.0\VaultGuardAPI.Application.dll
+C:\Users\tiago\OneDrive\Área de Trabalho\Api Gerador De Senha\VaultGuardAPI\VaultGuardAPI.Application\bin\Debug\net6.0\VaultGuardAPI.Application.pdb
+C:\Users\tiago\OneDrive\Área de Trabalho\Api Gerador De Senha\VaultGuardAPI\VaultGuardAPI.Application\bin\Debug\net6.0\VaultGuardAPI.Domain.dll
+C:\Users\tiago\OneDrive\Área de Trabalho\Api Gerador De Senha\VaultGuardAPI\VaultGuardAPI.Application\bin\Debug\net6.0\VaultGuardAPI.Domain.pdb
+C:\Users\tiago\OneDrive\Área de Trabalho\Api Gerador De Senha\VaultGuardAPI\VaultGuardAPI.Application\obj\Debug\net6.0\VaultGuardAPI.Application.csproj.AssemblyReference.cache
+C:\Users\tiago\OneDrive\Área de Trabalho\Api Gerador De Senha\VaultGuardAPI\VaultGuardAPI.Application\obj\Debug\net6.0\VaultGuardAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\Área de Trabalho\Api Gerador De Senha\VaultGuardAPI\VaultGuardAPI.Application\obj\Debug\net6.0\VaultGuardAPI.Application.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\Área de Trabalho\Api Gerador De Senha\VaultGuardAPI\VaultGuardAPI.Application\obj\Debug\net6.0\VaultGuardAPI.Application.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\Área de Trabalho\Api Gerador De Senha\VaultGuardAPI\VaultGuardAPI.Application\obj\Debug\net6.0\VaultGuardAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Área de Trabalho\Api Gerador De Senha\VaultGuardAPI\VaultGuardAPI.Application\obj\Debug\net6.0\VaultGuardAPI.Application.csproj.CopyComplete
+C:\Users\tiago\OneDrive\Área de Trabalho\Api Gerador De Senha\VaultGuardAPI\VaultGuardAPI.Application\obj\Debug\net6.0\VaultGuardAPI.Application.dll
+C:\Users\tiago\OneDrive\Área de Trabalho\Api Gerador De Senha\VaultGuardAPI\VaultGuardAPI.Application\obj\Debug\net6.0\refint\VaultGuardAPI.Application.dll
+C:\Users\tiago\OneDrive\Área de Trabalho\Api Gerador De Senha\VaultGuardAPI\VaultGuardAPI.Application\obj\Debug\net6.0\VaultGuardAPI.Application.pdb
+C:\Users\tiago\OneDrive\Área de Trabalho\Api Gerador De Senha\VaultGuardAPI\VaultGuardAPI.Application\obj\Debug\net6.0\VaultGuardAPI.Application.genruntimeconfig.cache
+C:\Users\tiago\OneDrive\Área de Trabalho\Api Gerador De Senha\VaultGuardAPI\VaultGuardAPI.Application\obj\Debug\net6.0\ref\VaultGuardAPI.Application.dll

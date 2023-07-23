@@ -1,0 +1,35 @@
+version: '3.4'
+
+networks:
+  dev:
+    driver: bridge
+
+services:
+  vaultguard.api:
+    image: ${DOCKER_REGISTRY-}vaultguardapi
+    depends_on:
+      - app_db
+    container_name: VaultGuard-service
+    ports:
+      - "8088:80"
+    build:
+      context: . 
+      dockerfile: VaultGuard.api/Dockerfile
+    environment:
+      - ConnectionStrings:DefaultConnection=Server=app_db;Database=VaultGuardDb;User=sa;Password=Fa1312@7980
+
+  app_db:
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    container_name: app_db
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=Fa1312@7980
+      - MSSQL_PID=Express
+    ports:
+      - "1433:1433"  # Use a different host port if 1432 is already in use
+    restart: always
+    volumes:
+      - app_data:/var/opt/mssql
+
+volumes:
+  app_data:

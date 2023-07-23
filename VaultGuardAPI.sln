@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VaultGuard.Api", "VaultGuard.api\VaultGuard.Api.csproj", "{E7268037-3E01-4CBB-B188-02FA46F23C09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VaultGuardAPI.Application", "VaultGuardAPI.Application\VaultGuardAPI.Application.csproj", "{ECC7A03E-1562-4878-A487-E299356CB810}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VaultGuardAPI.Data", "VaultGuardAPI.Data\VaultGuardAPI.Data.csproj", "{D16123BF-1CB5-4074-BE12-C8DA9DCE9D9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VaultGuardAPI.Domain", "VaultGuardAPI.Domain\VaultGuardAPI.Domain.csproj", "{9CFF2294-D67F-4710-AEFB-AAC5283D0B76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VaultGuardAPI.Infra", "VaultGuardAPI.Infra\VaultGuardAPI.Infra.csproj", "{CEE5661D-65E9-4B53-BCE6-AD8E0CF03879}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{23CFE077-D859-438F-8C1B-714C35B0B333}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7268037-3E01-4CBB-B188-02FA46F23C09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7268037-3E01-4CBB-B188-02FA46F23C09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7268037-3E01-4CBB-B188-02FA46F23C09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7268037-3E01-4CBB-B188-02FA46F23C09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECC7A03E-1562-4878-A487-E299356CB810}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECC7A03E-1562-4878-A487-E299356CB810}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECC7A03E-1562-4878-A487-E299356CB810}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECC7A03E-1562-4878-A487-E299356CB810}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D16123BF-1CB5-4074-BE12-C8DA9DCE9D9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D16123BF-1CB5-4074-BE12-C8DA9DCE9D9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D16123BF-1CB5-4074-BE12-C8DA9DCE9D9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D16123BF-1CB5-4074-BE12-C8DA9DCE9D9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CFF2294-D67F-4710-AEFB-AAC5283D0B76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CFF2294-D67F-4710-AEFB-AAC5283D0B76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CFF2294-D67F-4710-AEFB-AAC5283D0B76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CFF2294-D67F-4710-AEFB-AAC5283D0B76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEE5661D-65E9-4B53-BCE6-AD8E0CF03879}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEE5661D-65E9-4B53-BCE6-AD8E0CF03879}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEE5661D-65E9-4B53-BCE6-AD8E0CF03879}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEE5661D-65E9-4B53-BCE6-AD8E0CF03879}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23CFE077-D859-438F-8C1B-714C35B0B333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23CFE077-D859-438F-8C1B-714C35B0B333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23CFE077-D859-438F-8C1B-714C35B0B333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23CFE077-D859-438F-8C1B-714C35B0B333}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D615D191-1948-4052-85D1-630E6EF75FAA}
+	EndGlobalSection
+EndGlobal
